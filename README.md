@@ -10,6 +10,6 @@ features
 
 Install the packeges
 ---------------
-Markup :*qrcode-terminal
-*whatsapp-web.js
-*args-parser
+* qrcode-terminal
+* whatsapp-web.js
+* args-parser
