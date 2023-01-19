@@ -40,7 +40,7 @@ async function main(){
 
 function help(){
 	console.log("the code is not secure or stable, for personal use only!");
-	console.log("[+]bot.js sendMsgToGroupMembersPrivately -GroupName='group name' -MSG='hello'");
+	console.log("[+]script.js sendMsgToGroupMembersPrivately -GroupName='group name' -MSG='hello'");
 }
 
 client.initialize();
