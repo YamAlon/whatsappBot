@@ -6,7 +6,7 @@ run with ```node Script.js```
 
 features
 ---------------
-*send messages to all the members in a group privately
+* send messages to all the members in a group privately
 
 Install the packeges
 ---------------
